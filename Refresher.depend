@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1638770578 source:/home/elitecompiler/Desktop/DevX/C++/Projects/Refresher/src/Operators.cpp
+	"Operators.h"
+
+1658822928 /home/elitecompiler/Desktop/DevX/C++/Projects/Refresher/include/Operators.h
+
+1659695630 source:/home/elitecompiler/Desktop/DevX/C++/Projects/Refresher/main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<Operators.h>
+	<MyInput.h>
+
+1659680723 source:/home/elitecompiler/Desktop/DevX/C++/Projects/Refresher/src/MyInput.cpp
+	"MyInput.h"
+
+1659793197 /home/elitecompiler/Desktop/DevX/C++/Projects/Refresher/include/MyInput.h
+
